@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Editex/static/css/main.9a8b3cfb.css",
+    "main.css": "/Editex/static/css/main.1a46285f.css",
     "main.js": "/Editex/static/js/main.94efc9ed.js",
     "static/js/787.28fe1ee3.chunk.js": "/Editex/static/js/787.28fe1ee3.chunk.js",
     "static/media/logo.svg": "/Editex/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Editex/index.html",
-    "main.9a8b3cfb.css.map": "/Editex/static/css/main.9a8b3cfb.css.map",
+    "main.1a46285f.css.map": "/Editex/static/css/main.1a46285f.css.map",
     "main.94efc9ed.js.map": "/Editex/static/js/main.94efc9ed.js.map",
     "787.28fe1ee3.chunk.js.map": "/Editex/static/js/787.28fe1ee3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9a8b3cfb.css",
+    "static/css/main.1a46285f.css",
     "static/js/main.94efc9ed.js"
   ]
 }
